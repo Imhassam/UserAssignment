@@ -1,0 +1,36 @@
+.form-style-6{
+	font: sans-serif;
+	max-width: 100%;
+	margin: 10px auto;
+	padding: 16px;
+	background: rgb(252, 239, 185);
+	margin-top: 10px;
+}
+.form-style-6 h1{
+	background: #d1a93c;
+	padding: 20px 0;
+	font-size: 140%;
+	font-weight: 300;
+	text-align: center;
+	color: #fff;
+	
+}
+.wp-table {
+    font-size: 13px!important;
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 50%;
+	margin: auto;
+    display: table;
+}
+.form-style-6:input{
+	width: 100%;
+	background: #fff;
+	margin-bottom: 4%;
+	border: 1px solid #ccc;
+	padding: 3%;
+	color: #555;
+	font:   sans-serif;
+}
+
